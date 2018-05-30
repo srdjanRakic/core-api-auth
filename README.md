@@ -1,2 +1,2 @@
-# core-api-auth
-ASP.NET Core Web API Authentication
+# ASP.NET Core Web API Authentication
+
